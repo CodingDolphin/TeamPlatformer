@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ScreenManagerAsset\Logo2.png</Source>
+      <Name>ScreenManagerAsset\Logo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\ScreenManagerAsset\Logo2.xnb</Output>
+      <Time>2014-07-05T14:36:41.4056631+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenManagerAsset\MenuBackground2.png</Source>
+      <Name>ScreenManagerAsset\MenuBackground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\ScreenManagerAsset\MenuBackground2.xnb</Output>
+      <Time>2014-07-05T15:58:30.7014588+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenManagerAsset\creditsButton.png</Source>
+      <Name>ScreenManagerAsset\creditsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\ScreenManagerAsset\creditsButton.xnb</Output>
+      <Time>2014-07-05T22:32:14.4956625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenManagerAsset\exitButton.png</Source>
+      <Name>ScreenManagerAsset\exitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\ScreenManagerAsset\exitButton.xnb</Output>
+      <Time>2014-07-05T22:32:14.1306416+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenManagerAsset\Logo1.png</Source>
+      <Name>ScreenManagerAsset\Logo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\ScreenManagerAsset\Logo1.xnb</Output>
+      <Time>2014-07-05T20:51:42.2116356+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenManagerAsset\playButton.png</Source>
+      <Name>ScreenManagerAsset\playButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\ScreenManagerAsset\playButton.xnb</Output>
+      <Time>2014-07-05T22:32:13.7206182+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenManagerAsset\GameName1.png</Source>
+      <Name>ScreenManagerAsset\GameName1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\ScreenManagerAsset\GameName1.xnb</Output>
+      <Time>2014-07-05T21:13:30.6604746+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenManagerAsset\optionButton.png</Source>
+      <Name>ScreenManagerAsset\optionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\ScreenManagerAsset\optionButton.xnb</Output>
+      <Time>2014-07-05T22:32:14.1316417+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2014-07-05T14:48:01.0735379+02:00</Time>
+    </Item>
+    <Item>
+      <Source>soundFX\Mischief.mp3</Source>
+      <Name>soundFX\Mischief</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\soundFX\Mischief.xnb</Output>
+      <Extra>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\soundFX\Mischief.wma</Extra>
+      <Time>2014-07-05T16:50:40.9404982+02:00</Time>
+    </Item>
+    <Item>
+      <Source>soundFX\LogoSound.wav</Source>
+      <Name>soundFX\LogoSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\soundFX\LogoSound.xnb</Output>
+      <Time>2014-07-05T19:51:54.512431+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformerContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformer\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-05T14:09:22.9554933+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

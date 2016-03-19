@@ -1,0 +1,4 @@
+C:\Users\WhySoSad\Documents\Visual Studio 2010\Projects\TeamPlatformer\TeamPlatformer\TeamPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WhySoSad\Desktop\TeamPlatformer\TeamPlatformer\TeamPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WhySoSad\Desktop\ScreenManager old\TeamPlatformer\TeamPlatformer\TeamPlatformerContent\obj\x86\Debug\TeamPlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\WhySoSad\Desktop\C#\ScreenManager old\TeamPlatformer\TeamPlatformer\TeamPlatformerContent\obj\x86\Debug\TeamPlatformerContent.contentprojResolveAssemblyReference.cache
